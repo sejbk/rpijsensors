@@ -1,0 +1,2 @@
+These are wrapper classes in Java for the Raspberry Pi using PI4J to utilize different sensors in a structured manner.
+
